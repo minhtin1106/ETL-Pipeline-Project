@@ -1,1 +1,1 @@
-This folder store scripts for Extract class, PostgreSQL class, and Transformation_Load class
+This folder stores the config file and scripts of Extract class, PostgreSQL class, and Transformation_Load class
